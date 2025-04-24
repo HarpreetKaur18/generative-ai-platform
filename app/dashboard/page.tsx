@@ -29,18 +29,17 @@ export default function Home() {
       const data = await res.json();
       const response = data.content || "No response.";
 
-      setHistory((prev) => [...prev, { prompt, response }]);
+      setHistory(prev => [...prev, { prompt, response }]);
+      setPrompt("");
     } catch (err) {
-      setHistory((prev) => [...prev, { prompt, response: "Something went wrong." }]);
+      setHistory(prev => [...prev, { prompt, response: "Something went wrong." }]);
     }
-
-    setPrompt("");
     setLoading(false);
   };
 
   return (
     <div className="min-h-screen flex flex-col bg-black text-white">
-      <main className="flex-grow flex flex-col items-center justify-start py-10 px-4 overflow-y-auto">
+      <main className="flex-grow flex flex-col items-center justify-start py-10 px-4">
         <div className="max-w-2xl w-full">
           <h1 className="text-4xl font-bold mb-8 flex items-center gap-3">
             🧠 <span>Generative AI Content Platform</span>
