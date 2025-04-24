@@ -27,8 +27,6 @@ A full-stack AI application for content generation using GPT-style models via Op
 ## Getting Started
 
 1. Clone the repository:
-
-```bash
 git clone https://github.com/harpreetkaur/generative-ai-platform.git
 cd generative-ai-platform
 
@@ -41,6 +39,8 @@ MONGODB_URI=your-mongodb-uri
 
 4.  Start the development server
 npm run dev
+
+---
 
 ## Author
 Harpreet Kaur
