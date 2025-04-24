@@ -26,22 +26,22 @@ A full-stack AI application for content generation using GPT-style models via Op
 
 ## Getting Started
 
-1. Clone the repository:
+**1. Clone the repository:**
 git clone https://github.com/harpreetkaur/generative-ai-platform.git
 
 cd generative-ai-platform
 
-2.  Install dependencies
+**2.  Install dependencies**
 
 npm install
 
-3.  Create a .env.local file and add:
+**3.  Create a .env.local file and add:**
 
 OPENROUTER_API_KEY=your-openrouter-key
 
 MONGODB_URI=your-mongodb-uri
 
-4.  Start the development server
+**4.  Start the development server**
 
 npm run dev
 
