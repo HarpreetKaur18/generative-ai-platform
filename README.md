@@ -3,6 +3,7 @@
 A full-stack AI application for content generation using GPT-style models via OpenRouter. Built with Next.js, Tailwind CSS, and MongoDB, this platform allows users to generate responses in multiple formats, manage prompt history, and analyze usage through a dashboard interface.
 
 ---
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://generative-ai-platform-jo0xfgu13.vercel.app)
 
 ## Features
 
@@ -46,5 +47,7 @@ Harpreet Kaur
 LinkedIn - www.linkedin.com/in/harpreet-kaur005
 
 Email - harpreetgill325@gmail.com   
+
+This project is licensed under the MIT License.
 
 **“Feel free to reach out for collaboration, feedback, or full-time opportunities.”**
