@@ -36,7 +36,9 @@ cd generative-ai-platform
 npm install
 
 3.  Create a .env.local file and add:
+
 OPENROUTER_API_KEY=your-openrouter-key
+
 MONGODB_URI=your-mongodb-uri
 
 4.  Start the development server
