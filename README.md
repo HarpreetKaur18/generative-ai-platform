@@ -1,4 +1,4 @@
-🧠 Generative AI Content Platform
+# 🧠 Generative AI Content Platform
 
 A full-stack AI application for content generation using GPT-style models via OpenRouter. Built with Next.js, Tailwind CSS, and MongoDB, this platform allows users to generate responses in multiple formats, manage prompt history, and analyze usage through a dashboard interface.
 
@@ -56,4 +56,4 @@ npm run dev
 
 This project is licensed under the MIT License.
 
-**“Feel free to reach out for collaboration, feedback, or full-time opportunities.”**
+## **“Feel free to reach out for collaboration, feedback, or full-time opportunities.”**
