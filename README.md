@@ -48,7 +48,7 @@ npm run dev
 ---
 
 ## Author
-**Harpreet Kaur 💜**
+### **Harpreet Kaur 💜**
 
 🔗 LinkedIn - www.linkedin.com/in/harpreet-kaur005
 
